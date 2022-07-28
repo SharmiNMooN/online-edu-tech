@@ -13,3 +13,8 @@
 .h-ready-to-join {
   height: 300px;
 }
+
+.image-custom {
+  height: auto;
+  width: 90px;
+}
